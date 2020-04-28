@@ -150,7 +150,7 @@
             "text": "Ustawienie nadpisa\u0144 dla szablonu: %s"
         },
         "7d10eb77b41ac086ecfca9a7d417b1c6": {
-            "text": "Ustawienie nadpisa\u0144 przez szablonu"
+            "text": "Ustawienie nadpisane przez szablon"
         },
         "62d09c342e50351059153e99a2fdbb47": {
             "text": "Aby edytowa\u0107 ustawienie nadpisania lub aby nadpisa\u0107 inne ustawienia, edytuj dowolny szablon i kliknij nazw\u0119 pola na li\u015bcie p\u00f3l."
@@ -519,7 +519,7 @@
             "text": "To tak\u017ce usunie wierszy danych - %d ."
         },
         "760b4bbc37693597edf00f9eeda38cd0": {
-            "text": "Nie ma obecnie ustawie\u0144 nadpisanych prze szablon."
+            "text": "Nie ma obecnie ustawie\u0144 nadpisanych przez szablon."
         },
         "7710897a6218283716118180cd494f1e": {
             "text": "Zaznaczone ustawienia pojawi\u0105 si\u0119 jako opcje konfiguracji podczas edycji tego pola w kontek\u015bcie okre\u015blonego szablonu."
@@ -600,7 +600,7 @@
             "text": "Aby zmieni\u0107 kt\u00f3re ustawienia mog\u0105 zosta\u0107 nadpisane zobacz pole poni\u017cej."
         },
         "ecd6ac32b4369912ca3321c1dd169dc9": {
-            "text": "Ustawienia kt\u00f3re mog\u0105 zosta\u0107 nadpisane przez szablon"
+            "text": "Ustawienia, kt\u00f3re mog\u0105 zosta\u0107 nadpisane przez szablon"
         },
         "089ff074f0a08e950aae098cce20eff4": {
             "text": "** OSTRZE\u017bENIE: ** w\u0142\u0105czenie ustawie\u0144 wykraczaj\u0105cych poza te okre\u015blone przez modu\u0142 Fieldtype \/ Inputfield mo\u017ce nie zawsze dzia\u0142a\u0107 lub powodowa\u0107 problemy."
