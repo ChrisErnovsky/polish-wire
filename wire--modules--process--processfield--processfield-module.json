@@ -141,7 +141,7 @@
             "text": "Nadpisania"
         },
         "b98e1358fd47b54afceecd12ace8e18c": {
-            "text": "Nast\u0119puj\u0105ce ustawienia s\u0105 nadpisane dla tego pola przez wskazany szablon(szablony). Zaznacz pole wyboru po prawej stronie dowolnego wiersza, aby usun\u0105\u0107 ustawienie nadrz\u0119dne (przywr\u00f3cenie pierwotnej warto\u015bci)."
+            "text": "Nast\u0119puj\u0105ce ustawienia zosta\u0142y nadpisane dla tego pola przez wskazany szablon(-y). Zaznacz pole wyboru po prawej stronie dowolnego wiersza, aby usun\u0105\u0107 ustawienie nadrz\u0119dne i przywr\u00f3ci\u0107 pierwotn\u0105 warto\u015b."
         },
         "be777931cbea33cf8f3a5f5cd994ea93": {
             "text": "Ustawienie nadpisa\u0144 dla obszaru nazw pola: %s"
@@ -162,13 +162,13 @@
             "text": "Zainstaluj"
         },
         "b35a1460619c7aebb19fddf043d4953d": {
-            "text": "Prosz\u0119 zainstalowa\u0107 modu\u0142 edytora frontu strony, aby umo\u017cliwi\u0107 edycj\u0119 p\u00f3l w froncie strony. Po zainstalowaniu, od\u015bwie\u017c i wr\u00f3\u0107 tutaj, aby uzyska\u0107 wi\u0119cej opcji."
+            "text": "Prosz\u0119 zainstalowa\u0107 modu\u0142 edytora frontu strony, aby umo\u017cliwi\u0107 edycj\u0119 p\u00f3l na froncie strony. Po zainstalowaniu, od\u015bwie\u017c i wr\u00f3\u0107 tutaj, aby ustawi\u0107 wi\u0119cej opcji."
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Usu\u0144 pole"
         },
         "8bcb61f8472471a1619f7bd55e2c9ad2": {
-            "text": "To pole nie jest nigdzie u\u017cywane i mozna je usun\u0105\u0107"
+            "text": "To pole nie jest nigdzie u\u017cywane i mo\u017cna je usun\u0105\u0107"
         },
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "To pole nie mo\u017ce zosta\u0107 usuni\u0119te, poniewa\u017c jest u\u017cywne przez jeden lub wi\u0119cej szablon\u00f3w"
