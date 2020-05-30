@@ -18,16 +18,16 @@
             "text": "Usuni\u0119to pliki pami\u0119ci podr\u0119cznej dla stron"
         },
         "0c22fad509c478c3442a310a7a2b2c52": {
-            "text": "Usun\u0105\u0107 plik pami\u0119ci podr\u0119cznej generowania stron?"
+            "text": "Usunąć cache renderowania?"
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
-            "text": "Obecnie istnieje %d stron w pami\u0119ci podr\u0119cznej w %s"
+            "text": "Aktualna ilość stron: %d w pamięci podręcznej: %s"
         },
         "3a160df105e3d9d54575466354bdd312": {
-            "text": "Generator Stron"
+            "text": "Renderowanie stron"
         },
         "d2c5ea4202c4c692852b7e10fbceabd3": {
-            "text": "Dodaje motod\u0119 generowania strony i przechowuje efekty w pami\u0119ci podr\u0119cznej."
+            "text": "Dodaje do strony metodę renderowania i przechowuje efekty w pamięci podręcznej."
         }
     }
 }

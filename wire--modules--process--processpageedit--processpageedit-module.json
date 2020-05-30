@@ -15,7 +15,7 @@
             "text": "Potwierd\u017a"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Napewno?"
+            "text": "Na pewno?"
         },
         "7ba9fe21b073af37b16f989e23112967": {
             "text": "Nieznana strona"
@@ -45,7 +45,7 @@
             "text": "Ta strona znajduje si\u0119 w koszu"
         },
         "404dd23de1c6c7edc7927e5262b93a1b": {
-            "text": "Zapisz + Niepublikuj"
+            "text": "Zapisz + Nie publikuj"
         },
         "110a4b01beabd53b661a47d4b44bd7a8": {
             "text": "Publikuj"
@@ -54,10 +54,10 @@
             "text": "Tre\u015b\u0107"
         },
         "64e4aca4297806247f62a7b5f8cbd3df": {
-            "text": "Strony podrz\u0119dne"
+            "text": "Dzieci"
         },
         "9b30437c5e1e966fa90525c93356fd3f": {
-            "text": "Strona podrz\u0119dna \/ Strony podrz\u0119dne (dzieci)"
+            "text": "Dzieci (strony podrzędne)"
         },
         "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
             "text": "Obecnie nie ma \u017cadnych stron podrz\u0119dnych pod t\u0105 stron\u0105."
@@ -66,13 +66,13 @@
             "text": "Strony podrz\u0119dne s\u0105 sortowane wed\u0142ug: \"%s\", zgodnie z ustawieniami szablonu."
         },
         "a13cc55582da47cab1f7cc7518700c6e": {
-            "text": "Dodaj tutaj now\u0105 stron\u0119"
+            "text": "Dodaj"
         },
         "7e92f49c92e3f91ed88f03063fc34748": {
-            "text": "Ustawienia kolejno\u015bci (sortowanie)"
+            "text": "Kolejność (sortowanie)"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Je\u015bli chcesz, aby wszystkie bie\u017c\u0105ce i przysz\u0142e podstrony by\u0142y automatycznie posortowane wed\u0142ug konkretnego pola, zaznacz pole poni\u017cej i opcjonalnie zaznacz pole wyboru \"odwr\u00f3\u0107\", aby zmieni\u0107 kolejno\u015b\u0107 na malej\u0105ce. Pozostaw pole puste, je\u015bli chcesz ustawi\u0107 kolejno\u015b\u0107 r\u0119cznie poprzez przeci\u0105gnij i upu\u015b\u0107."
+            "text": "Jeśli chcesz, aby wszystkie obecne i przyszłe podstrony były automatycznie sortowane wg konkretnego pola, wybierz je poniżej i opcjonalnie zaznacz opcję odwrócenia sortowania (malejąco). Jeżeli chcesz ustawiać kolejność ręcznie, pozostaw pole puste."
         },
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "Szablon"
@@ -84,25 +84,25 @@
             "text": "Dodane przez u\u017cytkownika"
         },
         "567d412904b379e49382b6e3b90881ca": {
-            "text": "Dodane przez %1$s dnia %2$s"
+            "text": "Dodana: %1$s, %2$s"
         },
         "1dec6a532601f755520b9567091e1bf8": {
-            "text": "Ostatnio modyfikowane przez %1$s dnia %2$s"
+            "text": "Modyfikowana: %1$s, %2$s"
         },
         "0b7b79dc6ffa228f9e59cecc61c4efb6": {
-            "text": "Opublikowano %s"
+            "text": "Opublikowana: %s"
         },
         "4059b0251f66a18cb56f544728796875": {
             "text": "="
         },
         "cacab211629daeffac10e13574e49d9e": {
-            "text": "Ukryte: Nieuwzgledniane na listach i w wynikach wyszukiwania"
+            "text": "Ukryta: Nieuwzgledniana na listach i w wynikach wyszukiwania"
         },
         "ab4b835121255016ef73bea7f4ea45a7": {
-            "text": "Zablokowane: Brak mo\u017cliwo\u015bci edycji"
+            "text": "Zablokowana: Brak mo\u017cliwo\u015bci edycji"
         },
         "0fdd10ee950975e58b122abb2de3a49b": {
-            "text": "Nieopublikowane: Niewidoczne na stronie"
+            "text": "Nieopublikowana: Niewidoczna na stronie"
         },
         "ec53a8c4f07baed5d8825072c89799be": {
             "text": "="
@@ -114,19 +114,19 @@
             "text": "Przenie\u015b do kosza"
         },
         "62a92c8e1a013dc0c9a67f2769642e9f": {
-            "text": "Zaznacz to pole aby potwierdzi\u0107, \u017ce napewno chcesz to zrobi\u0107."
+            "text": "Zaznacz to pole, aby potwierdzi\u0107, \u017ce na pewno chcesz to zrobi\u0107."
         },
         "6e2e3de95055596f315a073f771342e3": {
-            "text": "Ta stronie nie mo\u017ce by\u0107 usuni\u0119ta tym razem"
+            "text": "Ta strona nie mo\u017ce by\u0107 teraz usuni\u0119ta."
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
             "text": "Zobacz"
         },
         "d2387a51d9f67d60dfc2cbb23bd04af2": {
-            "text": "Kto ma mie\u0107 dost\u0119p do tej strony?"
+            "text": "Kto może mie\u0107 dost\u0119p do tej strony?"
         },
         "36c2b914f293a142343cba0f3157d748": {
-            "text": "Co mog\u0105 zrobi\u0107?"
+            "text": "Uprawnienia"
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(wszyscy)"
@@ -147,10 +147,10 @@
             "text": "Zapisano stron\u0119: %s"
         },
         "421318b075c43ddcd5426197f778c43c": {
-            "text": "Nie mo\u017cesz zosta\u0107 opublikowana do p\u00f3ki nie zostan\u0105 poprawione wszelkie b\u0142\u0119dy."
+            "text": "Strona nie może zostać opublikowana, dopóki nie zostaną poprawione wszystkie błędy."
         },
         "30b78fb546fe9686f84a740a5e5524a3": {
-            "text": "Zmieniono alias URL strony na \"%s\" poniewa\u017c wybrany alias jest ju\u017c zaj\u0119ty."
+            "text": "Zmieniono alias URL strony na \"%s\", poniewa\u017c wybrany alias jest ju\u017c zaj\u0119ty."
         },
         "4c2915288e6804dd4b1adf9819439b19": {
             "text": "Nie ma dost\u0119pnej nast\u0119pnej strony do edycji."
@@ -159,7 +159,7 @@
             "text": "Przywr\u00f3cono poprzedni\u0105 warto\u015b\u0107"
         },
         "f3e0ef028ad1fda84b2b567684c67846": {
-            "text": "Stronie nieopublikowana poniewa\u017c pole: \"%s\" jest wymagane."
+            "text": "Strona nie została opublikowana, poniewa\u017c pole: \"%s\" jest wymagane."
         },
         "17f8097b4af11ef352554fc7dd416c34": {
             "text": "Wybrany szablon: '%s' jest niedozwolony"
@@ -183,10 +183,10 @@
             "text": "Zmie\u0144 szablon z \"%1$s\" na \"%2$s\""
         },
         "48af63aeec834982fcf91e325aaea998": {
-            "text": "Uwaga, zmiana szablonu spowoduje usuni\u0119ci\u0119 nast\u0119puj\u0105cych p\u00f3l:"
+            "text": "UWAGA! Zmiana szablonu spowoduje usuni\u0119ci\u0119 nast\u0119puj\u0105cych p\u00f3l:"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Prosz\u0119 potwierdzi\u0107 \u017ce rozumiesz powy\u017csze zaznaczaj\u0105c pole poni\u017cej."
+            "text": "Prosz\u0119 potwierdzi\u0107, \u017ce rozumiesz powy\u017csze konsekwencje, zaznaczaj\u0105c pole poni\u017cej."
         },
         "6b102e11bd33fb8f4be6a6cecf2c491b": {
             "text": "Nie masz uprawnie\u0144 do zmiany szablonu na tej stronie."
