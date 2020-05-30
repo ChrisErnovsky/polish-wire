@@ -27,25 +27,25 @@
             "text": "Nie masz uprawnie\u0144 do edycji"
         },
         "16e56a7f64aa21e73cf55bd8a6334cf8": {
-            "text": "%s + Wyj\u015bcie"
+            "text": "%s + wyjd\u017a"
         },
         "1040873c1bf94b1995201c648a15989d": {
-            "text": "%s + Zobacz"
+            "text": "%s + zobacz"
         },
         "407911b74ab384304ea0190675a00894": {
-            "text": "%s + Dodaj"
+            "text": "%s + dodaj"
         },
         "cc231fc91e42d1e391bbce1fc541959f": {
-            "text": "%s + Nast\u0119pne"
+            "text": "%s + nast\u0119pna"
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
-            "text": "Czy na pewno? Trwa obecnie przesy\u0142anie i mo\u017ce zosta\u0107 utracone w przypadku kontynuowania."
+            "text": "Na pewno? Trwa przesy\u0142anie i mo\u017ce zosta\u0107 utracone, je\u015bli zechcesz kontynowa\u0107."
         },
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Ta strona znajduje si\u0119 w koszu"
         },
         "404dd23de1c6c7edc7927e5262b93a1b": {
-            "text": "Zapisz + Nie publikuj"
+            "text": "Zapisz + nie publikuj"
         },
         "110a4b01beabd53b661a47d4b44bd7a8": {
             "text": "Publikuj"
@@ -57,31 +57,31 @@
             "text": "Dzieci"
         },
         "9b30437c5e1e966fa90525c93356fd3f": {
-            "text": "Dzieci (strony podrzędne)"
+            "text": "Dzieci (podstrony)"
         },
         "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
-            "text": "Obecnie nie ma \u017cadnych stron podrz\u0119dnych pod t\u0105 stron\u0105."
+            "text": "Ta strona nie posiada obecnie \u017cadnych dzieci (podstron)."
         },
         "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Strony podrz\u0119dne s\u0105 sortowane wed\u0142ug: \"%s\", zgodnie z ustawieniami szablonu."
+            "text": "Podstrony s\u0105 sortowane wg: \"%s\", zgodnie z ustawieniami szablonu."
         },
         "a13cc55582da47cab1f7cc7518700c6e": {
             "text": "Dodaj"
         },
         "7e92f49c92e3f91ed88f03063fc34748": {
-            "text": "Kolejność (sortowanie)"
+            "text": "Ustawienia sortowania"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Jeśli chcesz, aby wszystkie obecne i przyszłe podstrony były automatycznie sortowane wg konkretnego pola, wybierz je poniżej i opcjonalnie zaznacz opcję odwrócenia sortowania (malejąco). Jeżeli chcesz ustawiać kolejność ręcznie, pozostaw pole puste."
+            "text": "Je\u015bli chcesz, aby wszystkie obecne i przysz\u0142e podstrony by\u0142y automatycznie sortowane wg konkretnego pola, wybierz je poni\u017cej i opcjonalnie zaznacz opcj\u0119 odwr\u00f3cenia sortowania (malej\u0105co). Je\u017celi chcesz ustawia\u0107 kolejno\u015b\u0107 r\u0119cznie, pozostaw pole puste."
         },
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "Szablon"
         },
         "30269022e9d8f51beaabb52e5d0de2b7": {
-            "text": "Strona nadrz\u0119dna (rodzic)"
+            "text": "Rodzic (strona nadrz\u0119dna)"
         },
         "1ad359c38781f8fc924a380559d60c42": {
-            "text": "Dodane przez u\u017cytkownika"
+            "text": "Dodana przez u\u017cytkownika"
         },
         "567d412904b379e49382b6e3b90881ca": {
             "text": "Dodana: %1$s, %2$s"
@@ -96,7 +96,7 @@
             "text": "="
         },
         "cacab211629daeffac10e13574e49d9e": {
-            "text": "Ukryta: Nieuwzgledniana na listach i w wynikach wyszukiwania"
+            "text": "Ukryta: Wykluczona z list i wynik\u00f3w wyszukiwania"
         },
         "ab4b835121255016ef73bea7f4ea45a7": {
             "text": "Zablokowana: Brak mo\u017cliwo\u015bci edycji"
@@ -117,13 +117,13 @@
             "text": "Zaznacz to pole, aby potwierdzi\u0107, \u017ce na pewno chcesz to zrobi\u0107."
         },
         "6e2e3de95055596f315a073f771342e3": {
-            "text": "Ta strona nie mo\u017ce by\u0107 teraz usuni\u0119ta."
+            "text": "Ta strona nie mo\u017ce by\u0107 teraz usuni\u0119ta"
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
             "text": "Zobacz"
         },
         "d2387a51d9f67d60dfc2cbb23bd04af2": {
-            "text": "Kto może mie\u0107 dost\u0119p do tej strony?"
+            "text": "Kto mo\u017ce mie\u0107 dost\u0119p do tej strony?"
         },
         "36c2b914f293a142343cba0f3157d748": {
             "text": "Uprawnienia"
@@ -132,10 +132,10 @@
             "text": "(wszyscy)"
         },
         "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Dost\u0119p jest zdefiniowany przez szablon tej strony: %s"
+            "text": "Dost\u0119p jest definiowany przez szablon tej strony: %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
-            "text": "Dost\u0119p jest dziedziczony ze strony \"%1$s\" i zdefiniowany przez szablon: %2$s"
+            "text": "Dost\u0119p jest dziedziczony ze strony \"%1$s\" i definiowany przez szablon: %2$s"
         },
         "df74a326081d841aef061c999c7979f3": {
             "text": "Zmieniono: %s"
@@ -147,22 +147,22 @@
             "text": "Zapisano stron\u0119: %s"
         },
         "421318b075c43ddcd5426197f778c43c": {
-            "text": "Strona nie może zostać opublikowana, dopóki nie zostaną poprawione wszystkie błędy."
+            "text": "Strona nie mo\u017ce zosta\u0107 opublikowana, dop\u00f3ki nie zostan\u0105 poprawione b\u0142\u0119dy"
         },
         "30b78fb546fe9686f84a740a5e5524a3": {
             "text": "Zmieniono alias URL strony na \"%s\", poniewa\u017c wybrany alias jest ju\u017c zaj\u0119ty."
         },
         "4c2915288e6804dd4b1adf9819439b19": {
-            "text": "Nie ma dost\u0119pnej nast\u0119pnej strony do edycji."
+            "text": "Nie ma nast\u0119pnej strony do edycji."
         },
         "e1ccd342c70dde8fd239432c69aa55e0": {
             "text": "Przywr\u00f3cono poprzedni\u0105 warto\u015b\u0107"
         },
         "f3e0ef028ad1fda84b2b567684c67846": {
-            "text": "Strona nie została opublikowana, poniewa\u017c pole: \"%s\" jest wymagane."
+            "text": "Strona nie zosta\u0142a opublikowana, poniewa\u017c pole: \"%s\" jest wymagane"
         },
         "17f8097b4af11ef352554fc7dd416c34": {
-            "text": "Wybrany szablon: '%s' jest niedozwolony"
+            "text": "Szablon: '%s' jest niedozwolony"
         },
         "c4101b17a6f3bb8ffbe40eb9edef2347": {
             "text": "Nie mo\u017cna usun\u0105\u0107 tej strony"
@@ -204,22 +204,22 @@
             "text": "Domy\u015blna pozycja\/akcja przycisku \"zobacz\""
         },
         "d6b9987fabd38f232ada46d046aa4f88": {
-            "text": "Domy\u015blny typ akcji, kiedy klikni\u0119ta zostanie zak\u0142adka \"zobacz\" na stronie edycji"
+            "text": "Domy\u015blny typ akcji po klikni\u0119ciu zak\u0142adki \"zobacz\" na stronie edycji."
         },
         "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Kolejno\u015b\u0107 stron podrz\u0119dnych zale\u017cy od:"
+            "text": "Dzieci (podstrony) s\u0105 sortowane wg:"
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "\u017badne"
         },
         "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
-            "text": "Manualnie - przeci\u0105gnij i upu\u015b\u0107"
+            "text": "R\u0119cznie - przeci\u0105gnij i upu\u015b\u0107"
         },
         "591acadb8502cd6db313b718df45a6f4": {
-            "text": "Natywne pola"
+            "text": "Pola systemowe"
         },
         "833956a760d996ae61ea8b385e9fb6f0": {
-            "text": "Niestandardowe pola"
+            "text": "Pola w\u0142asne"
         },
         "d49042595c2674084c92d561b714d522": {
             "text": "Odwr\u00f3ci\u0107 kolejno\u015b\u0107?"
@@ -228,16 +228,16 @@
             "text": "Widok strony"
         },
         "43aaebd9ba4408c30e8e5164b4860ae6": {
-            "text": "="
+            "text": "Panel boczny"
         },
         "c772431f8a16790370305c86f948c6f5": {
-            "text": "Okno wyskakuj\u0105ce"
+            "text": "Modal (popup)"
         },
         "c97f398820bf360b28776372f47a115a": {
             "text": "Nowe okno\/zak\u0142adka"
         },
         "7e7b8eaf9921d2a698937d925748e85b": {
-            "text": "Wyjd\u017a + Zobacz"
+            "text": "Wyjd\u017a + zobacz"
         },
         "e76ea9d62d4a434a98238f3ec7932075": {
             "text": "wszystkie"
@@ -249,7 +249,7 @@
             "text": "zmian: %d"
         },
         "bbbabdbe1b262f75d99d62880b953be1": {
-            "text": "="
+            "text": "Rola"
         },
         "b9c25fdc76ccaff0426b33dc56852e77": {
             "text": "Nie mo\u017cna ich wy\u015bwietli\u0107"
@@ -258,13 +258,13 @@
             "text": "(w polu strony)"
         },
         "ccab4e644acf8e1bc8a9bef59f811803": {
-            "text": "(w linku href)"
+            "text": "(w linku)"
         },
         "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
-            "text": "%d dodatkowych stron nie pokazano."
+            "text": "Nie pokazano dodatkowych stron: %d."
         },
         "3b3ad8a776bd0a0e7498a58c538a95b9": {
-            "text": "Nie znaleziono \u017cadnych innych stron wskazuj\u0105cych na t\u0119 stron\u0119 w polach strony lub linkach do href."
+            "text": "Nie znaleziono innych stron wskazuj\u0105cych na t\u0119 stron\u0119 w polach lub linkach."
         },
         "2bd339d85ee3b33e513359ce781b60cc": {
             "text": "Przywr\u00f3\u0107"
@@ -273,16 +273,16 @@
             "text": "Przywr\u00f3\u0107 z kosza do pierwotnej lokalizacji"
         },
         "514327d866bf40803bfdf3a678af92ba": {
-            "text": "Zaznacz aby potwierdzi\u0107 \u017ce chcesz przywr\u00f3ci\u0107 t\u0105 stron\u0119."
+            "text": "Zaznacz, aby potwierdzi\u0107, \u017ce chcesz przywr\u00f3ci\u0107 t\u0119 stron\u0119."
         },
         "91ce4ed84b455bf383570b705a732cd6": {
-            "text": "Nie mo\u017cna przywr\u00f3ci\u0107 strony, gdy s\u0105 obecne b\u0142\u0119dy"
+            "text": "Strona nie mo\u017ce zosta\u0107 przywr\u00f3cona, dop\u00f3ki s\u0105 na niej b\u0142\u0119dy"
         },
         "e4da3fa39ff5ce0fd581bc97389b5cdf": {
             "text": "Przywr\u00f3cono stron\u0119: %s"
         },
         "e8691f66b2ae08756dac17d0e3b91eb2": {
-            "text": "B\u0142\u0105d przywracania strony"
+            "text": "B\u0142\u0105d podczas przywracania strony"
         },
         "ea1056a7e305406e5662eb74ed8eb9f1": {
             "text": "Usu\u0144"
@@ -291,19 +291,19 @@
             "text": "Jakie strony linkuj\u0105 do tej strony?"
         },
         "60c6e03c99253b3bca28a08aa5102fdc": {
-            "text": "Znaleziono %d innych stron z linkami do tej strony w polach strony lub linkach href."
+            "text": "Znaleziono stron: %d (z odniesieniami do tej strony w polach lub linkach)"
         },
         "3efee15199d0046c4a68bd6c96c66800": {
             "text": "Jakie inne adresy URL przekierowuj\u0105 na t\u0119 stron\u0119?"
         },
         "c665039391ab01a70f17f05adcc566df": {
-            "text": "Ilekro\u0107 strona zostanie przeniesiona lub zmieni si\u0119 jej nazwa, system zapami\u0119ta poprzedni\u0105 lokalizacj\u0119 przekierowa\u0144."
+            "text": "Ilekro\u0107 strona zostanie przeniesiona lub zmieni si\u0119 jej nazwa, system zapami\u0119ta jej poprzedni\u0105 lokalizacj\u0119 dla odpowiednich przekierowa\u0144."
         },
         "d9a0149000506e68eb258bab1ef93e2f": {
-            "text": "Poni\u017cej znajduje si\u0119 lista adres\u00f3w URL (\u015bcie\u017cek), kt\u00f3re automatycznie przekierowuj\u0105 na t\u0119 stron\u0119 (przy u\u017cyciu sta\u0142ego przekierowania 301)."
+            "text": "Poni\u017cej znajduje si\u0119 lista adres\u00f3w URL (\u015bcie\u017cek), kt\u00f3re automatycznie przekierowuj\u0105 na sta\u0142e do tej strony (301)."
         },
         "bc84a6916935bff7a425f45f894a18a6": {
-            "text": "Mo\u017cesz usun\u0105\u0107 dowolne \u015bcie\u017cki \/ adresy URL lub r\u0119cznie doda\u0107 nowe."
+            "text": "Mo\u017cesz usun\u0105\u0107 dowolne \u015bcie\u017cki\/adresy URL lub r\u0119cznie doda\u0107 nowe."
         },
         "1324a129fbb956748409f981833c0736": {
             "text": "Brak \u015bcie\u017cek przekierowania"
@@ -318,7 +318,7 @@
             "text": "Dodaj nowe przekierowania"
         },
         "71fc4eb5d7649ced69d2936060e7774c": {
-            "text": "Podaj dodatkowe \u015bcie\u017cki \/ adresy URL (po jednym na wiersz), kt\u00f3re powinny przekierowa\u0107 na t\u0119 stron\u0119."
+            "text": "Podaj dodatkowe \u015bcie\u017cki\/adresy URL (po jednym na wiersz), kt\u00f3re powinny przekierowywa\u0107 do tej strony."
         },
         "1715e12396d2512d6a079d39809bd855": {
             "text": "Podaj tylko \u015bcie\u017ck\u0119 adresu URL (np.  \u201c\/hello\/world\/\u201d), NIE do\u0142\u0105czaj schematu, domeny, portu, ci\u0105gu zapytania lub fragment\u00f3w."
@@ -327,7 +327,7 @@
             "text": "\u015acie\u017cki odnosz\u0105 si\u0119 do katalogu g\u0142\u00f3wnego witryny, wi\u0119c NIE do\u0142\u0105czaj podkatalogu %s na pocz\u0105tku."
         },
         "b74adc728406a06b4e47a2bcfd534281": {
-            "text": "Aby okre\u015bli\u0107 j\u0119zyk przekierowania, wpisz \u015bcie\u017ck\u0119\/URL w linii z prefiksem nazwy j\u0119zyka:"
+            "text": "Aby okre\u015bli\u0107 j\u0119zyk przekierowania, wpisz \u015bcie\u017ck\u0119\/adres URL w linii z prefiksem nazwy j\u0119zyka:"
         },
         "beb808c0ab58b957ea0350e633392cee": {
             "text": "="
@@ -345,7 +345,7 @@
             "text": "Strona zostanie przywr\u00f3cona do: %s."
         },
         "e6c6e3f3e972de9c735faefa037529ab": {
-            "text": "Oryginalna nazwa zostanie zmieniona z %1$s na %2$s, aby by\u0142a unikatowa."
+            "text": "Oryginalna nazwa zostanie zmieniona z **%1$s** na **%2$s**, aby by\u0142a unikatowa."
         },
         "c28806887f7038aa8c83cef389bfcec6": {
             "text": "URL (poprzednia \u015bcie\u017cka)"
@@ -372,7 +372,7 @@
             "text": "(tylko w domy\u015blnym j\u0119zyku)"
         },
         "c71458ba699635fcdbc6a15dd2b81c4c": {
-            "text": "Usuni\u0119to status oflagowany, poniewa\u017c podczas zapisywania nie zg\u0142oszono \u017cadnych b\u0142\u0119d\u00f3w"
+            "text": "Usuni\u0119to status 'oflagowana', poniewa\u017c nie znaleziono b\u0142\u0119d\u00f3w podczas zapisywania"
         }
     }
 }
