@@ -15,16 +15,16 @@
             "text": "Poszukiwany tekst"
         },
         "59b2ae438ca9f446f5cd4d79d3395446": {
-            "text": "Kliknij aby zbudowa\u0107 indeks fraz wyszukiwania"
+            "text": "Kliknij, aby zbudowa\u0107 indeks wyszukiwanych fraz"
         },
         "038126bcfc832f08d96c331d0316f5da": {
-            "text": "Przeszukaj wszystkie pliki do t\u0142umaczenia w poszukiwaniu specyficznego tekstu\/frazy"
+            "text": "Przeszukaj wszystkie pliki mo\u017cliwe do przet\u0142umaczenia dla konkretnego tekstu\/frazy"
         },
         "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
-            "text": "Kliknij na wyniki aby edytowa\u0107 t\u0142umaczenie lub by doda\u0107 plik t\u0142umaczenia (je\u015bli jeszcze nie istnieje)"
+            "text": "Kliknij na wyniki, aby edytowa\u0107 t\u0142umaczenie lub by doda\u0107 plik t\u0142umaczenia (je\u015bli go nie ma)"
         },
         "3f045b24a15220ad5572f3ad51dd80e0": {
-            "text": "Plik CSV t\u0142umaczenia do zaimportowanie po zapisaniu"
+            "text": "Plik CSV (t\u0142umaczenie), kt\u00f3ry zostanie zaimportowany po zapisaniu"
         },
         "8327b21ed9628232c90353c7c08ad16f": {
             "text": "%d porzucone"
@@ -42,7 +42,7 @@
             "text": "Pobierz plik CSV"
         },
         "b012fb6e4f8ea5ec13a5797b60145bb3": {
-            "text": "Nierozpoznanych tekst\u00f3w domeny dla pliku: %s"
+            "text": "Nierozpoznanych tekst\u00f3w dla pliku: %s"
         },
         "8d8b8c1b707b1cc979c41ca7cb2a2020": {
             "text": "%d wszystkich t\u0142umacze\u0144, %d wszystkich zmian"
@@ -64,6 +64,9 @@
         },
         "eb1aa189659918acda10866815cacccd": {
             "text": "Od\u015bwie\u017c indeks wyszukiwanych fraz"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d kompatybilne"
         }
     }
 }
