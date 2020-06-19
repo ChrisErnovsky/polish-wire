@@ -21,7 +21,7 @@
             "text": "Nieznana strona"
         },
         "b8e75fd085c6615286cee6fdc4e880ec": {
-            "text": "Ta strona jest zablokowana do edycji"
+            "text": "Edycja na tej stronie zosta\u0142a zablokowana"
         },
         "386397f000925f7d90c87a913a678eed": {
             "text": "Nie masz uprawnie\u0144 do edycji"
@@ -39,10 +39,10 @@
             "text": "%s + nast\u0119pna"
         },
         "109f29a4bda4c9b4a00ffd5452fe9515": {
-            "text": "Na pewno? Trwa przesy\u0142anie i mo\u017ce zosta\u0107 utracone, je\u015bli zechcesz kontynowa\u0107."
+            "text": "Na pewno? Trwa przesy\u0142anie i dane mog\u0105 zosta\u0107 utracone, je\u015bli zechcesz kontynuowa\u0107."
         },
         "a1c508c8dcf832bde214942a479c63e5": {
-            "text": "Ta strona znajduje si\u0119 w koszu"
+            "text": "Ta strona jest w koszu"
         },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Zapisz + nie publikuj"
@@ -54,13 +54,13 @@
             "text": "Tre\u015b\u0107"
         },
         "64e4aca4297806247f62a7b5f8cbd3df": {
-            "text": "Dzieci"
+            "text": "Podstrony"
         },
         "9b30437c5e1e966fa90525c93356fd3f": {
-            "text": "Dzieci (podstrony)"
+            "text": "Podstrony (dzieci)"
         },
         "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
-            "text": "Ta strona nie posiada obecnie \u017cadnych dzieci (podstron)."
+            "text": "Ta strona nie posiada obecnie \u017cadnych podstron (dzieci)."
         },
         "fcdd8c7fe4647ee6186ea45dd69d425d": {
             "text": "Podstrony s\u0105 sortowane wg: \"%s\", zgodnie z ustawieniami szablonu."
@@ -207,7 +207,7 @@
             "text": "Domy\u015blny typ akcji po klikni\u0119ciu zak\u0142adki \"zobacz\" na stronie edycji."
         },
         "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Dzieci (podstrony) s\u0105 sortowane wg:"
+            "text": "Podstrony (dzieci) s\u0105 sortowane wg:"
         },
         "6adf97f83acf6453d4a6a4b1070f3754": {
             "text": "\u017badne"
@@ -366,7 +366,7 @@
             "text": "Ta strona mo\u017ce zawiera\u0107 jedno lub wi\u0119cej niekompletnych p\u00f3l (spr\u00f3buj zapisa\u0107 lub opublikowa\u0107, aby uzyska\u0107 wi\u0119cej informacji)"
         },
         "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
-            "text": "Unikalna: wymagaj, aby nazwa strony \u201c%s\u201d by\u0142a globalnie unikalna"
+            "text": "Unikalna: Nazwa strony \u201c%s\u201d musi by\u0107 globalnie unikalna"
         },
         "9d4409be42bd401755ef515b91df93bc": {
             "text": "(tylko w domy\u015blnym j\u0119zyku)"
