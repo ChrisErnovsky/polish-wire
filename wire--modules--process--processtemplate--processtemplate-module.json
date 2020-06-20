@@ -44,9 +44,6 @@
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Zaawansowane"
         },
-        "ac97a1ad01bd7b48508de449e229a73d": {
-            "text": "Import"
-        },
         "b2a6343356c7cf0f4c1aae50c2cac1b7": {
             "text": "Usu\u0144"
         },
@@ -159,7 +156,7 @@
             "text": "Lista p\u00f3l wykorzystywanych przez ten szablon. Ten szablon pobiera swoje pola z szablonu '%s'."
         },
         "ae89f7319ca951efb3ce055e92b8ade2": {
-            "text": "Okre\u015bl pola u\u017cywane przez ten szablon. Mo\u017cesz przeci\u0105ga\u0107 i upuszcza\u0107 pola, aby ustala\u0107 ich kolejno\u015b\u0107 lub dodawa\u0107 nowe pola."
+            "text": "Wybierz pola, kt\u00f3re maj\u0105 by\u0107 u\u017cywane w tym szablonie. Mo\u017cesz przeci\u0105ga\u0107 i upuszcza\u0107 pola, aby ustala\u0107 ich kolejno\u015b\u0107 lub dodawa\u0107 nowe pola."
         },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Dodaj pole"
@@ -198,7 +195,7 @@
             "text": "Czas zapisu strony \/ wyga\u015bni\u0119cia pami\u0119ci podr\u0119cznej"
         },
         "7ff5f438d6cc10c5f333e97329c72daa": {
-            "text": "Co ma si\u0119 dzia\u0107 z pami\u0119ci\u0105 podr\u0119czn\u0105, kiedy strona u\u017cywaj\u0105ca tego szablonu jest zapisywana?"
+            "text": "Co ma si\u0119 dzia\u0107 z plikami pami\u0119ci podr\u0119cznej, kiedy strona u\u017cywaj\u0105ca tego szablonu jest zapisywana?"
         },
         "fe4a994d36e75cfb408bdf0b5dd7af09": {
             "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 tylko zapisywanej strony (domy\u015blnie)"
@@ -207,7 +204,7 @@
             "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 ca\u0142ej witryny*"
         },
         "3bba41317ab3da84fd247ebaa32ea821": {
-            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 zapisywanej strony i stron nadrz\u0119dnych (w tym strony g\u0142\u00f3wnej)"
+            "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 zapisywanej strony i rodzic\u00f3w (w tym strony g\u0142\u00f3wnej)"
         },
         "f841b3150a439220f669e77e12ea0bda": {
             "text": "Wyczy\u015b\u0107 pami\u0119\u0107 podr\u0119czn\u0105 zapisywanej strony i innych stron podanych przez u\u017cytkownika..."
@@ -276,19 +273,19 @@
             "text": "Aby zwin\u0105\u0107 tag na li\u015bcie szablon\u00f3w, dodaj do niego na pocz\u0105tku my\u015blnik, np: -hello"
         },
         "f578ef5a7330291e151dc6052fe85bfe": {
-            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Tre\u015b\u0107\""
+            "text": "Nadpisz domy\u015bln\u0105 etykiet\u0119 \"Tre\u015b\u0107\""
         },
         "5fda5af59d211bd673998a69f051c3f2": {
-            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Podstrony\""
+            "text": "Nadpisz domy\u015bln\u0105 etykiet\u0119 \"Dzieci\""
         },
         "4a49f761ce504d9c073de20eba6ca069": {
-            "text": "Opcjonalnie nadpisz domy\u015bln\u0105 etykiet\u0119 \"Nazwa\""
+            "text": "Nadpisz domy\u015bln\u0105 etykiet\u0119 \"Nazwa\""
         },
         "f9c716f29bd379e49e4485ea8afd1556": {
-            "text": "Zmie\u0144 nazw\u0119 szablonu"
+            "text": "Zmiana nazwy szablonu"
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
-            "text": "Nazwa odnosz\u0105ca si\u0119 do tego szablonu. Jest to tak\u017ce domy\u015blna nazwa pliku szablonu (z rozszerzeniem .php) w \/site\/templates\/."
+            "text": "Nazwa szablonu w systemie. Jest to tak\u017ce domy\u015blna nazwa pliku szablonu (z rozszerzeniem .php) w \/site\/templates\/."
         },
         "04f22e1af73c705475a4cc38a5c89ae3": {
             "text": "Plik szablonu jest zapisywalny i jego nazwa r\u00f3wnie\u017c zostanie zmieniona."
@@ -429,55 +426,55 @@
             "text": "API: $template->noSettings = 1; \/\/ lub 0 by wy\u0142\u0105czy\u0107"
         },
         "a8d7050d17168bae58f775f20d56eeba": {
-            "text": "Czy strony u\u017cywaj\u0105ce tego szablonu mog\u0105 zawiera\u0107 podstrony?"
+            "text": "Czy strony u\u017cywaj\u0105ce tego szablonu mog\u0105 mie\u0107 dzieci?"
         },
         "0f79346b34fe5a07bf9ad38ef37e1723": {
             "text": "Czy ten szablon mo\u017ce by\u0107 u\u017cywany dla nowych stron?"
         },
         "6ab8ac5b13a48347d2ca00a38bb06f94": {
-            "text": "Przyk\u0142adem szablonu, kt\u00f3rego nie chcia\u0142by\u015b pozwoli\u0107 u\u017cywa\u0107 do tworzenia nowych stron jest szablon strony g\u0142\u00f3wnej ('home')."
+            "text": "Przyk\u0142adem szablonu, kt\u00f3ry m\u00f3g\u0142by by\u0107 zablokowany do tworzenia nowych stron jest szablon strony g\u0142\u00f3wnej ('home')."
         },
         "06c2cea18679d64399783748fa367bdd": {
-            "text": "jeden"
+            "text": "Jedna"
         },
         "b4a25e0860ab98f8476c6339abbb773b": {
             "text": "nie wolno wi\u0119cej"
         },
         "1e791aefe4014d2551110c4348279487": {
-            "text": "Dozwolony szablon(-y) dla podstron"
+            "text": "Dozwolony szablon(-y) dla dzieci"
         },
         "fcdd2e278208618dfa795ed85ba1eb06": {
-            "text": "Wybierz szablon(-y), kt\u00f3ry b\u0119dzie dozwolony dla podstron u\u017cywaj\u0105cych tego szablonu. U\u017cyj tej opcji tylko wtedy, gdy chcesz \u015bci\u015ble okre\u015bli\u0107 umiejscowienie stron u\u017cywaj\u0105cych tego szablonu."
+            "text": "Wybierz szablon(-y), kt\u00f3ry b\u0119dzie dozwolony dla dzieci stron u\u017cywaj\u0105cych tego szablonu. U\u017cyj tej opcji tylko wtedy, gdy chcesz \u015bci\u015ble okre\u015bli\u0107 umiejscowienie stron u\u017cywaj\u0105cych tego szablonu."
         },
         "9927f70231db8b53612513d00b934a7c": {
-            "text": "Je\u015bli \u017caden nie zostanie wybrany, wszystkie b\u0119d\u0105 dozwolone, w granicach uprawnie\u0144 u\u017cytkownika. Przyk\u0142adem mo\u017ce by\u0107 szablon 'news-list', kt\u00f3ry mo\u017ce mie\u0107 podstrony korzystaj\u0105ce tylko z szablon\u00f3w 'news-item' lub 'press-release'."
+            "text": "Je\u015bli \u017caden nie zostanie wybrany, wszystkie b\u0119d\u0105 dozwolone, w granicach uprawnie\u0144 u\u017cytkownika. Przyk\u0142adem mo\u017ce by\u0107 szablon 'news-list', kt\u00f3ry mo\u017ce mie\u0107 dzieci korzystaj\u0105ce wy\u0142\u0105cznie z szablon\u00f3w 'news-item' lub 'press-release'."
         },
         "ad1d924dc261c8945b07d271c9cd5888": {
-            "text": "Szablony oznaczone %s r\u00f3wnie\u017c musz\u0105 by\u0107 skonfigurowane tak, aby ten szablon by\u0142 nadrz\u0119dny. Kliknij dowolny wybrany szablon, aby przej\u015b\u0107 do szybkiej konfiguracji dozwolonych stron nadrz\u0119dnych."
+            "text": "Szablony oznaczone %s musz\u0105 by\u0107 skonfigurowane tak, aby ten szablon m\u00f3g\u0142 by\u0107 rodzicem. Kliknij wybrany szablon, aby przej\u015b\u0107 do szybkiej konfiguracji dozwolonych rodzic\u00f3w."
         },
         "81d8cfa67d7f3fa526cff71bd27238c5": {
-            "text": "Szablony oznaczone jako %s zosta\u0142y ju\u017c skonfigurowane tak, aby ten szablon m\u00f3g\u0142 by\u0142 dla nich nadrz\u0119dny."
+            "text": "Szablony oznaczone jako %s zosta\u0142y ju\u017c skonfigurowane tak, aby ten szablon m\u00f3g\u0142 by\u0142 dla nich rodzicem."
         },
         "1b50b9bdfa1846ef031dc3cc190267d6": {
-            "text": "Dozwolony szablon(-y) dla stron nadrz\u0119dnych"
+            "text": "Dozwolony szablon(-y) dla rodzic\u00f3w"
         },
         "8d3a827d5474c79dc3434e5e29f7a80f": {
             "text": "Wybierz szablon(-y), kt\u00f3ry b\u0119dzie dozwolony jako rodzic(e) dla stron, u\u017cywaj\u0105cych tego szablonu. U\u017cyj tego ustawienia tylko wtedy, gdy chcesz \u015bci\u015ble okre\u015bli\u0107 umiejscowienie stron u\u017cywaj\u0105cych tego szablonu."
         },
         "dc70febc65985c326b6d7a85502ddc0a": {
-            "text": "Je\u015bli \u017caden nie zostanie wybrany, wszystkie szablony nadrz\u0119dne b\u0119d\u0105 dozwolone, w granicach uprawnie\u0144 u\u017cytkownika. Przyk\u0142adem u\u017cycia mo\u017ce by\u0107 szablon 'pracownik', kt\u00f3ry mo\u017ce mie\u0107 tylko stron\u0119 nadrz\u0119dn\u0105 u\u017cywaj\u0105c\u0105 szablonu 'katalog firmowy'."
+            "text": "Je\u015bli \u017caden nie zostanie wybrany, wszystkie szablony nadrz\u0119dne b\u0119d\u0105 dozwolone, w granicach uprawnie\u0144 u\u017cytkownika. Przyk\u0142adem u\u017cycia mo\u017ce by\u0107 szablon 'pracownik', kt\u00f3ry mo\u017ce mie\u0107 tylko rodzica u\u017cywaj\u0105cego szablonu 'katalog firmowy'."
         },
         "fb3f093ab0572a059120f2c7c680da3c": {
-            "text": "Szablony oznaczone za pomoc\u0105 %s r\u00f3wnie\u017c musz\u0105 by\u0107 skonfigurowane tak, aby pozwala\u0107 na u\u017cycie tego szablonu na podstronach. Kliknij dowolny wybrany szablon, aby przej\u015b\u0107 do szybkiej konfiguracji dozwolonych podstron."
+            "text": "Szablony oznaczone za pomoc\u0105 %s musz\u0105 by\u0107 skonfigurowane tak, aby pozwala\u0107 na u\u017cycie tego szablonu przez dzieci. Kliknij wybrany szablon, aby przej\u015b\u0107 do szybkiej konfiguracji dozwolonych dzieci."
         },
         "173fc4509c54323d4c0da3ffea41742c": {
-            "text": "Szablony oznaczone z %s zosta\u0142y ju\u017c skonfigurowane tak, aby mog\u0142y u\u017cywa\u0107 tego szablonu dla podstron."
+            "text": "Szablony oznaczone z %s zosta\u0142y ju\u017c skonfigurowane tak, aby mog\u0142y u\u017cywa\u0107 tego szablonu dla dzieci."
         },
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
-            "text": "Format nazw dla podstron"
+            "text": "Format nazw dla dzieci"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Opcjonalnie okre\u015bl format dla nazw dodawanych podstron. Pozwala to pomin\u0105\u0107 krok \"Dodaj stron\u0119\" przy dodawaniu nowej strony. Do poprawnego dzia\u0142ania nale\u017cy w sekcji \"Dozwolone szablony podstron\" powy\u017cej wybra\u0107 tylko jeden (1) szablon."
+            "text": "Opcjonalnie okre\u015bl format dla nazw dodawanych dzieci. Pozwala to pomin\u0105\u0107 krok \"Dodaj stron\u0119\" przy dodawaniu nowej strony. Do poprawnego dzia\u0142ania nale\u017cy w sekcji \"Dozwolone szablony dzieci\" powy\u017cej wybra\u0107 tylko jeden (1) szablon."
         },
         "27dd547b53bb1b3c67c345f984747010": {
             "text": "Pozostaw puste, aby wy\u0142\u0105czy\u0107. Wprowad\u017a \"tytu\u0142\" (bez apostrof\u00f3w), aby automatycznie wygenerowa\u0107 nazw\u0119 z tytu\u0142u strony. Dost\u0119pnych jest wi\u0119cej opcji, w tym u\u017cycie format\u00f3w daty. [Wi\u0119cej](http:\/\/processwire.com\/api\/modules\/process-template\/)"
@@ -495,16 +492,16 @@
             "text": "**Warunki wymagane do poprawnego dzia\u0142ania**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Musisz wybra\u0107 szablon nadrz\u0119dny (patrz: \"dozwolone szablony dla rodzic\u00f3w\" powy\u017cej). Je\u015bli wybrano wi\u0119cej ni\u017c 1, zostanie u\u017cyty tylko pierwszy."
+            "text": "1. Musisz wybra\u0107 szablon rodzica (patrz: \"dozwolone szablony dla rodzic\u00f3w\" powy\u017cej). Je\u015bli wybrano wi\u0119cej ni\u017c 1, zostanie u\u017cyty tylko pierwszy."
         },
         "b14d306525e8d6e9927d577a59064048": {
-            "text": "2. Wybrany szablon nadrz\u0119dny musi mie\u0107 ten szablon zdefiniowany jako dozwolony dla podstron."
+            "text": "2. Wybrany szablon rodzica musi mie\u0107 ten szablon zdefiniowany jako dozwolony dla dzieci."
         },
         "67c0041f81951ac9b6b46dd2311fb9aa": {
-            "text": "Ustawienia sortowania dla podstron"
+            "text": "Ustawienia sortowania dla dzieci"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Je\u015bli chcesz, aby podstrony by\u0142y automatycznie sortowane wed\u0142ug konkretnego pola, zaznacz je tutaj. W przeciwnym razie wybierz opcj\u0119 \"Brak\", aby skorzysta\u0107 z mo\u017cliwo\u015bci sortowania na stronie. Opcja ta nadpisuje ustawienia strony, wi\u0119c je\u015bli wybierzesz cokolwiek innego ni\u017c \"Brak\", opcja sortowania nie pojawi si\u0119 dla stron u\u017cywaj\u0105cych tego szablonu."
+            "text": "Je\u015bli chcesz, aby dzieci by\u0142y automatycznie sortowane wed\u0142ug konkretnego pola, zaznacz je tutaj. W przeciwnym razie wybierz opcj\u0119 \"\u017badne\", aby skorzysta\u0107 z mo\u017cliwo\u015bci sortowania na stronie. Opcja ta nadpisuje ustawienia strony, wi\u0119c je\u015bli wybierzesz cokolwiek innego ni\u017c \"\u017badne\", opcja sortowania nie pojawi si\u0119 dla stron u\u017cywaj\u0105cych tego szablonu."
         },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "Wi\u0119cej"
@@ -543,7 +540,7 @@
             "text": "Czy adresy URL strony maj\u0105 ko\u0144czy\u0107 si\u0119 uko\u015bnikiem?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
-            "text": "Je\u015bli 'Tak', strony u\u017cywaj\u0105ce tego szablonu zawsze b\u0119d\u0105 adresy URL ko\u0144cz\u0105ce si\u0119 uko\u015bnikiem '\/'. Je\u015bli strona b\u0119dzie \u0142adowana z adresu bez uko\u015bnika, zostanie przekierowana do adresu z uko\u015bnikiem. Je\u015bli wybierzesz 'Nie', b\u0119dzie wymuszana wersja bez uko\u015bnika. Pami\u0119taj, \u017ce to ustawienie nie powoduje wymuszenia tego zachowania w segmentach URL lub numerach stron, a tylko w rzeczywistych adresach URL stron. Je\u015bli nie masz preferencji w tym wzgl\u0119dzie, zaleca si\u0119 pozostawi\u0107 to ustawienie na 'Tak'."
+            "text": "Je\u015bli 'Tak', strony u\u017cywaj\u0105ce tego szablonu zawsze b\u0119d\u0105 mia\u0142y adresy URL ko\u0144cz\u0105ce si\u0119 uko\u015bnikiem '\/'. Je\u015bli strona b\u0119dzie \u0142adowana z adresu bez uko\u015bnika, zostanie przekierowana do adresu z uko\u015bnikiem. Je\u015bli wybierzesz 'Nie', b\u0119dzie wymuszana wersja bez uko\u015bnika. Pami\u0119taj, \u017ce to ustawienie nie powoduje wymuszenia tego zachowania w segmentach URL lub numerach stron, a tylko w rzeczywistych adresach URL stron. Je\u015bli nie masz preferencji w tym wzgl\u0119dzie, zaleca si\u0119 pozostawi\u0107 to ustawienie na 'Tak'."
         },
         "2d234a37f1f09a868ff9e51cbec93c0a": {
             "text": "Schemat \/ Protok\u00f3\u0142"
@@ -558,7 +555,7 @@
             "text": "Tylko HTTP"
         },
         "ecb1f1de9e0f813e37e40e2aa016c008": {
-            "text": "Je\u015bli twoja witryna posiada certyfikat SSL i jest dost\u0119pna przez HTTPS, mo\u017cesz tworzy\u0107 strony u\u017cywaj\u0105ce tego szablonu dost\u0119pnego tylko za po\u015brednictwem protoko\u0142u HTTPS lub HTTP. Na przyk\u0142ad je\u015bli wybierzesz opcj\u0119 \"tylko HTTPS\" poni\u017cej, a \u017c\u0105danie strony z u\u017cyciem tego szablonu odbywa si\u0119 za po\u015brednictwem protoko\u0142u HTTP, zostanie on automatycznie przekierowany do wersji HTTPS. Domy\u015blnie program ProcessWire umo\u017cliwia po\u0142\u0105czenie z protoko\u0142em HTTP lub HTTPS."
+            "text": "Je\u015bli twoja witryna posiada certyfikat SSL i jest dost\u0119pna przez HTTPS, mo\u017cesz wymusi\u0107 tworzenie strona za pomoc\u0105 tego szablonu wy\u0142\u0105cznie za po\u015brednictwem protoko\u0142u HTTPS. Na przyk\u0142ad je\u015bli wybierzesz opcj\u0119 \"tylko HTTPS\" poni\u017cej, a zapytanie do strony u\u017cywaj\u0105cej tego szablonu odbywa si\u0119 za po\u015brednictwem protoko\u0142u HTTP, zostanie on automatycznie przekierowany do wersji HTTPS. Domy\u015blnie system umo\u017cliwia po\u0142\u0105czenie z protoko\u0142em HTTP lub HTTPS."
         },
         "3797b58404902683867d788211ac5ce2": {
             "text": "Kompilowa\u0107 szablon?"
@@ -594,10 +591,10 @@
             "text": "Kompilowanie nie jest konieczne, chyba, \u017ce jest wymagane przez modu\u0142y lub do\u0142\u0105czone pliki."
         },
         "dc105ac52c237f9f09c74b0767f64f74": {
-            "text": "="
+            "text": "Typ tre\u015bci"
         },
         "65cee0d2556f206faa5e315e2f165551": {
-            "text": "Nag\u0142\u00f3wek, jaki b\u0119dzie wysy\u0142a\u0142 plik szablonu. Je\u015bli nie zostanie wybrana \u017cadna opcja, system nie wy\u015ble nag\u0142\u00f3wka typu zawarto\u015bci i w wi\u0119kszo\u015bci przypadk\u00f3w zostanie ustawiony typ text\/html. Wyb\u00f3r typu zawarto\u015bci jest zalecany, je\u015bli generowan\u0105 zawarto\u015bci\u0105 b\u0119dzie co\u015b innego ni\u017c html."
+            "text": "Nag\u0142\u00f3wek, jaki b\u0119dzie wysy\u0142a\u0142 plik szablonu. Je\u015bli nie zostanie wybrana \u017cadna opcja, system nie wy\u015ble nag\u0142\u00f3wka typu zawarto\u015bci i w wi\u0119kszo\u015bci przypadk\u00f3w zostanie ustawiony typ text\/html. Wskazanie typu zawarto\u015bci jest zalecane, je\u015bli generowan\u0105 zawarto\u015bci\u0105 b\u0119dzie co\u015b innego ni\u017c html."
         },
         "6540057c786960e596930c3041771293": {
             "text": "Aby doda\u0107 wi\u0119cej typ\u00f3w zawarto\u015bci, zobacz *contentTypes* w pliku \/wire\/config.php (i dodaj je do \/site\/config.php)."
@@ -642,7 +639,7 @@
             "text": "Czy chcesz zarz\u0105dza\u0107 prawami dost\u0119pu do stron u\u017cywaj\u0105cych tego szablonu?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
-            "text": "Je\u015bli wybierzesz \"Tak\", mo\u017cesz okre\u015bli\u0107, jakie role maj\u0105 dost\u0119p do stron u\u017cywaj\u0105cych tego szablonu. Je\u015bli wybierzesz \"Nie\", strony u\u017cywaj\u0105ce tego szablonu b\u0119d\u0105 dziedziczy\u0107 dost\u0119p z ich stron nadrz\u0119dnych."
+            "text": "Je\u015bli wybierzesz \"Tak\", mo\u017cesz okre\u015bli\u0107, jakie role b\u0119d\u0105 mia\u0142y dost\u0119p do stron u\u017cywaj\u0105cych tego szablonu. Je\u015bli wybierzesz \"Nie\", strony u\u017cywaj\u0105ce tego szablonu b\u0119d\u0105 dziedziczy\u0107 dost\u0119p z ich stron nadrz\u0119dnych."
         },
         "26b6d64574e88f30f407e16212dc4d57": {
             "text": "Co ma si\u0119 sta\u0107, je\u015bli u\u017cytkownik bez praw dost\u0119pu spr\u00f3buje wy\u015bwietli\u0107 stron\u0119?"
@@ -675,7 +672,7 @@
             "text": "Notka API: To ustawienie wp\u0142ywa na wyniki zwracane przez $pages->find(), $page->children() i inne funkcje zwracaj\u0105ce PageArrays."
         },
         "ba9f2559a3fd0e360488de130ff7ab73": {
-            "text": "Pozwala\u0107 na dziedziczenie praw do edycji przez podstrony?"
+            "text": "Pozwala\u0107 dzieciom na dziedziczenie praw do edycji?"
         },
         "ef4a1860dd8847a43619b6ca5f26e638": {
             "text": "Domy\u015blnie, wszystkie prawa dost\u0119pu ustawione w tym szablonie s\u0105 dziedziczone w drzewie stron, chyba, \u017ce s\u0105 nadpisywane przez stron\u0119 u\u017cywaj\u0105c\u0105 innego szablonu z innymi ustawieniami praw dost\u0119pu."
@@ -684,7 +681,7 @@
             "text": "Wybierz opcj\u0119 \"Nie\", je\u015bli uprawnienia do edycji NIE maj\u0105 by\u0107 dziedziczone przez strony u\u017cywaj\u0105ce tego szablonu. Prawo do wy\u015bwietlania b\u0119dzie dziedziczone bez wzgl\u0119du na to ustawienie."
         },
         "2678dd0fb63b2adfb38fe14f66d6c6b5": {
-            "text": "Czy uprawnienia do edycji maj\u0105 by\u0107 dziedziczone przez podstrony, kt\u00f3re nie maj\u0105 ustawionych praw dost\u0119pu?"
+            "text": "Czy uprawnienia do edycji maj\u0105 by\u0107 dziedziczone przez dzieci, kt\u00f3re nie maj\u0105 ustawionych praw dost\u0119pu?"
         },
         "1dee747820c27fbdc81384045a54c8c3": {
             "text": "Uprawnienia do edycji ogranicz do stron u\u017cywaj\u0105cych tylko tego szablonu"
@@ -842,9 +839,6 @@
         "b81ec9ff37dd594fd51bb7b72bc82e34": {
             "text": "brak pliku szablonu"
         },
-        "ce74097d91e1181f033e39e38736dd5a": {
-            "text": "pami\u0119\u0107 podr\u0119czna"
-        },
         "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
             "text": "="
         },
@@ -858,16 +852,13 @@
             "text": "Podstawowe"
         },
         "0daea515bb26aec31f4e6ebbee953cd7": {
-            "text": "Relacje"
+            "text": "Rodzina"
         },
         "21ddd66d87bebbaaf6bba5319e5b7f97": {
             "text": "Adresy URL"
         },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Pliki"
-        },
-        "ff2e33d2066471fd192bf41c39322cd1": {
-            "text": "Pami\u0119\u0107 Podr\u0119czna"
         },
         "08b4ed72628b718cbe3158eb2eaf10a2": {
             "text": "="
@@ -885,13 +876,13 @@
             "text": "Czas przechowywania pami\u0119ci podr\u0119cznej"
         },
         "3050063a3917b13308a0470879b3259f": {
-            "text": "Etykieta dla zak\u0142adki Tre\u015b\u0107"
+            "text": "Etykieta dla zak\u0142adki 'Tre\u015b\u0107'"
         },
         "7b5a26bd066cf9716b38372f73408f10": {
-            "text": "Etykieta dla zak\u0142adki Relacje"
+            "text": "Etykieta dla zak\u0142adki 'Dzieci'"
         },
         "13138fdee141d39a065f3fe82c0e0676": {
-            "text": "Etykieta dla w\u0142a\u015bciwo\u015bci Nazwy strony"
+            "text": "Etykieta dla w\u0142a\u015bciwo\u015bci 'Nazwa'"
         },
         "afd2f2d22bac5fd1faf1abf753685366": {
             "text": "="
@@ -906,7 +897,7 @@
             "text": "Stw\u00f3rz strony"
         },
         "46c22ba22392809d478c6f312de87f62": {
-            "text": "Dodaj podstrony"
+            "text": "Dodaj dzieci"
         },
         "a7e26a26319b0fc9973181a9d9c1baaa": {
             "text": "Kontynuuj"
