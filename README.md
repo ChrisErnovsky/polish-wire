@@ -1,7 +1,9 @@
 # polish-wire
 Polish language package for ProcessWire 3.X CMS https://processwire.com/
 
-version 1.1.0 ( June 22, 2020 ) - compatibile with the ProcessWire master version 3.0.160 (in progress...)
+version 1.1.0 ( June 22, 2020 ) - compatibile with the ProcessWire master version 3.0.160
+
+**TRANSLATION IN PROGRESS...**
 
 Installation:
 
