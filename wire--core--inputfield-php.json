@@ -3,10 +3,10 @@
     "textdomain": "wire--core--inputfield-php",
     "translations": {
         "efdf8051d64766330e13627274b01787": {
-            "text": "Warunki wyra\u017cane s\u0105 na zasadzie \"pole=warto\u015b\u0107\". Wiele warunk\u00f3w nale\u017cy oddzieli\u0107 przecinkiem."
+            "text": "Warunki s\u0105 opisywane selektorem \"pole-warto\u015b\u0107\" zawieraj\u0105cym pasuj\u0105ce pola i warto\u015bci. Je\u015bli u\u017cytych jest wi\u0119cej warunk\u00f3w, nale\u017cy oddzieli\u0107 je przecinkami."
         },
         "2d7ff3fa8a1a844b270d96878d358762": {
-            "text": "Przeczytaj jak korzysta\u0107 z zale\u017cno\u015bci na: http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/"
+            "text": "Wi\u0119cej o tym, jak korzysta\u0107 z tych zale\u017cno\u015bci: http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/."
         },
         "1729a56cfc89021478498fe0c89a843a": {
             "text": "Widoczno\u015b\u0107"
@@ -21,61 +21,67 @@
             "text": "Otwarte"
         },
         "0d2d71d5551271c673df720e61b08cf8": {
-            "text": "Otwarte + Nie mo\u017ce zosta\u0107 zamkni\u0119te"
+            "text": "Otwarte + nie mo\u017ce zosta\u0107 zamkni\u0119te"
         },
         "5995da1dbd9a2df5487ab0324f2d4a01": {
-            "text": "Otwarte gdy wype\u0142nione + Zamkni\u0119te gdy puste"
+            "text": "Otwarte, gdy wype\u0142nione + zamkni\u0119te, gdy puste"
         },
         "e75c5e5c17a86f893fac8d2b7b7a3762": {
-            "text": "Otwarte gdy wykorzystywane + Zamkni\u0119te gdy puste + Za\u0142aduj jedynie gdy otwarte (przez AJAX)"
+            "text": "Otwarte, gdy wype\u0142nione + zamkni\u0119te, gdy puste + za\u0142aduj tylko, je\u015bli otwarte (AJAX)"
         },
         "3a28674fd51f34234723d80de10c6382": {
-            "text": "Otwarte gdy wykorzystywane + Zamkni\u0119te gdy puste + Zablokowane (nieedytowalne)"
+            "text": "Otwarte, gdy wype\u0142nione + zamkni\u0119te, gdy puste + zablokowane (nieedytowalne)"
         },
         "2f6f6a0f0c4157d8a5174b75063ba0e2": {
-            "text": "Otwarte gdy puste + zamnki\u0119te gdy wype\u0142nione"
+            "text": "Otwarte, gdy puste + zamkni\u0119te, gdy wype\u0142nione"
         },
         "03f4a47830f97377a35321051685071e": {
             "text": "Zamkni\u0119te"
         },
         "3567554c6ab1f1648a4b4ecbbbb4733d": {
-            "text": "Zamkni\u0119te + Zablokowane (nieedytowalne)"
+            "text": "Zamkni\u0119te + zablokowane (nieedytowalne)"
         },
         "9101591614e0d079e052d9cbf4e1c203": {
-            "text": "Zamkni\u0119te + Za\u0142aduj jedynie gdy otwarte (przez AJAX)"
+            "text": "Zamkni\u0119te + Za\u0142aduj tylko, je\u015bli otwarte (AJAX)"
         },
         "cb6df4e080dea0319f74d565e587c2b5": {
-            "text": "Opcje wymienione w %s mog\u0105 nie dzia\u0142a\u0107 z wszystkimi rodzajami p\u00f3l, przetestuj aby sprawdzi\u0107 kompatybilno\u015b\u0107."
+            "text": "Opcje wymienione w %s mog\u0105 nie dzia\u0142a\u0107 wsz\u0119dzie lub z wszystkimi rodzajami p\u00f3l. Przetestuj je, aby sprawdzi\u0107 kompatybilno\u015b\u0107."
         },
         "2145d1256ac3cfac3444b42d04572b4e": {
-            "text": "Ukryte (nie wy\u015bwietlane w na stronie edycji)"
+            "text": "Ukryte (nie wy\u015bwietlane na stronie edycji)"
         },
         "44158720c6f7deaff17b2430d3d31254": {
             "text": "Poka\u017c to pole tylko je\u015bli"
         },
         "3b57940d51a0ed7f2d5c49363114bd0e": {
-            "text": "Podaj warunki wed\u0142ug kt\u00f3rych pole b\u0119dzie widoczne."
+            "text": "Podaj warunki wg kt\u00f3rych pole b\u0119dzie widoczne."
         },
         "b26d2db211d5748ab5ca3f2b5124e63a": {
-            "text": "Szerko\u015b\u0107 kolumny (%d%%)"
+            "text": "Szeroko\u015b\u0107 kolumny (%d%%)"
         },
         "0eb0b305235144ffe99e247b24200b09": {
-            "text": "Szeroko\u015b\u0107 pola w procentach (10%-100%). Je\u015bli umieszczone obok innego pola ze zredukowan\u0105 szeroko\u015bci\u0105, pola b\u0119d\u0105 wy\u015bwietlane obok siebie."
+            "text": "Szeroko\u015b\u0107 kontenera pola w procentach (10%-100%). Je\u015bli zostanie umieszczone obok innego pola ze zredukowan\u0105 szeroko\u015bci\u0105, pola b\u0119d\u0105 wy\u015bwietlane obok siebie."
         },
         "8387772e28e9c2b81fa8cb674e569663": {
-            "text": "Nie wszystkie pola mog\u0105 by\u0107 wy\u015bwietlane ze zw\u0119\u017con\u0105 szerko\u015bci\u0105, nale\u017cy sprawdzi\u0107 czy pole wy\u015bwietla si\u0119 prawid\u0142owo."
+            "text": "Nie wszystkie pola mog\u0105 by\u0107 wy\u015bwietlane ze zw\u0119\u017con\u0105 szeroko\u015bci\u0105. Nale\u017cy sprawdzi\u0107, czy pole wy\u015bwietla si\u0119 prawid\u0142owo."
         },
         "6e18e908568ef24580d93bfd3e0f40d7": {
             "text": "Wymagane?"
         },
         "c48c7243fc307fd425df738c9f0f4324": {
-            "text": "Je\u015bli zaznaczono, wype\u0142nienie pola b\u0119dzie konieczne"
+            "text": "Je\u015bli opcja zostanie zaznaczona, wype\u0142nienie tego pola b\u0119dzie wymagane."
         },
         "c1d71aa80e02ee67489431d11e5f58a8": {
-            "text": "Wymagane tylko gdy"
+            "text": "Wymagane tylko je\u015bli"
         },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
-            "text": "Podaj warunki wed\u0142ug kt\u00f3rych warto\u015b\u0107 tego pola b\u0119dzie wymagana."
+            "text": "Podaj warunki, pod jakimi wype\u0142nienie tego pola b\u0119dzie wymagane."
+        },
+        "4049392fac457a50d9eb641c5873f41e": {
+            "text": "U\u017cy\u0107 tak\u017ce atrybutu \"wymagane\" j\u0119zyka HTML5?"
+        },
+        "e20047e93328484a90fd0cf82642d0ff": {
+            "text": "U\u017cywaj wy\u0142\u0105cznie na polach, kt\u00f3re s\u0105 zawsze widoczne dla u\u017cytkownika."
         }
     }
 }

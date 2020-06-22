@@ -21,7 +21,7 @@
             "text": "Modu\u0142 %s wymaga: %s"
         },
         "dc3fd488f03d423a04da27ce66274c1b": {
-            "text": "Uwaga!"
+            "text": "UWAGA!"
         },
         "1f8ef8340fd2af55ecdf88e4a9ea3d8e": {
             "text": "Modu\u0142 zwr\u00f3ci\u0142 b\u0142\u0105d podczas instalacji"
@@ -30,10 +30,10 @@
             "text": "Nie mo\u017cna zainstalowa\u0107 modu\u0142u"
         },
         "8fbd3d16ca5c99185a023c9b7e6bb3e9": {
-            "text": "Dodno uprawnienia: %s"
+            "text": "Dodano uprawnienia: %s"
         },
         "e349b4d55d1eb71f3b313924149aa242": {
-            "text": "B\u0142\u0105d dodwania uprawnie\u0144: %s"
+            "text": "B\u0142\u0105d dodawania uprawnienia: %s"
         },
         "d8b74ebbc7d2d9e0bb9860f5875e6a58": {
             "text": "Automatyczna instalacja modu\u0142u"
@@ -42,28 +42,28 @@
             "text": "Modu\u0142 nie jest obecnie zainstalowany"
         },
         "8ffefc63396ecaf77fdcafe5163f2bfe": {
-            "text": "Modu\u0142 jest sta\u0142y"
+            "text": "Modu\u0142 jest zainstalowany na sta\u0142e"
         },
         "926c4c5bf92909f4225cafbe323a1ea9": {
-            "text": "Modu\u0142 jest wymagany przez inne modu\u0142y kt\u00f3re nale\u017cy usun\u0105\u0107 najpierw"
+            "text": "Modu\u0142 jest wymagany przez inne modu\u0142y, kt\u00f3re nale\u017cy najpierw usun\u0105\u0107"
         },
         "d710b0151d568a1efa24617b78fa1f25": {
-            "text": "Ten modu\u0142 jest typem pola kt\u00f3re obecnie jest wykorzystywany przez jedno lub wi\u0119cej p\u00f3l"
+            "text": "Ten modu\u0142 jest typem pola, kt\u00f3ry obecnie jest u\u017cywany przez jedno lub wi\u0119cej p\u00f3l"
         },
         "2ccb0669e8a2f6a3117f340bb36e8d4b": {
             "text": "Automatyczna deinstalacja modu\u0142u"
         },
         "37ab3f591b07274ff3b4c891af63e4d1": {
-            "text": "Usuni\u0119to uprawnienia: %s"
+            "text": "Usuni\u0119to uprawnienie: %s"
         },
         "7dd5a577bde82df3631263cfd04a07bb": {
-            "text": "B\u0142\u0105d usuwania uprawnie\u0144: %s"
+            "text": "B\u0142\u0105d usuwania uprawnienia: %s"
         },
         "141e30f2de96660020efd996cc916413": {
-            "text": "B\u0142\u0105d zale\u017cnosci modu\u0142u: %s wymaga %s"
+            "text": "B\u0142\u0105d zale\u017cno\u015bci modu\u0142u: %s wymaga %s"
         },
         "f0116bd76230140a92cbd37cc524488e": {
-            "text": "zostanie zastosowane nast\u0119pnym razem gdy modu\u0142y zostan\u0105 za\u0142adowane"
+            "text": "zostanie zastosowane, gdy modu\u0142y zostan\u0105 ponownie za\u0142adowane"
         },
         "3ba3666c48feabf2f2506e1f835ea92e": {
             "text": "Aktualizacja modu\u0142u"
@@ -78,7 +78,7 @@
             "text": "Wykryto %d zmian\u0119 wersji modu\u0142u"
         },
         "7cbf3b34133e54263a1242eb74a5008e": {
-            "text": "Wykryto %d zmian\u0119 wersji modu\u0142\u00f3w"
+            "text": "Wykryto %d zmian(y) wersji modu\u0142\u00f3w"
         }
     }
 }
