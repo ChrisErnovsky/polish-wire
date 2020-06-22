@@ -6,10 +6,10 @@
             "text": "Nie mo\u017cna znale\u017a\u0107 pola: %s"
         },
         "f1d3c736f589a82f1519c711fd4123c0": {
-            "text": "Nie mo\u017cna znale\u017a\u0107 pola w celu dodania tre\u015bci do pola: %s"
+            "text": "Nie mo\u017cna znale\u017a\u0107 pola dla ustawienia kontekstu: %s"
         },
         "fdd1e49a5de74a22586acf7420fcbd8d": {
-            "text": "Uwaga, wszystkie dane tego pola (tych p\u00f3l) zostan\u0105 ca\u0142kowicie usuni\u0119te (prosz\u0119 potwierdzi\u0107): %s"
+            "text": "UWAGA! Wszystkie dane tego pola (p\u00f3l) zostan\u0105 trwale usuni\u0119te (prosz\u0119 potwierdzi\u0107): %s"
         }
     }
 }
