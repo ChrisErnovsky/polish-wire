@@ -9,7 +9,7 @@
             "text": "Ostrze\u017cenie"
         },
         "fbc1408168142b8b97a61ea5ec60604c": {
-            "text": "B\u0142\u0105d Przetwarzania"
+            "text": "B\u0142\u0105d przetwarzania"
         },
         "24efa7ee4511563b16144f39706d594f": {
             "text": "Informacja"
@@ -36,7 +36,7 @@
             "text": "Wa\u017cne ostrze\u017cenie"
         },
         "ff9b211b885af35007a56bc02c64cad8": {
-            "text": "Odtwarzalny b\u0142\u0105d krytyczny"
+            "text": "B\u0142\u0105d krytyczny mo\u017cliwy do naprawienia"
         },
         "ca8b21d06668c2193b3df3d8152240ec": {
             "text": "B\u0142\u0105d zosta\u0142 zapisany."
@@ -51,22 +51,22 @@
             "text": "U\u017cywasz wiersza polece\u0144 API"
         },
         "94e7fb752e3990f6f676ffd6b9a42c46": {
-            "text": "jeste\u015b zalogowany jako super administrator."
+            "text": "Jeste\u015b zalogowany jako administrator."
         },
         "7d0312c35f60f9727688c5d442054eaa": {
-            "text": "plik instal.php nadal istnieje."
+            "text": "Plik install.php nadal istnieje."
         },
         "1755ef83b3130baa9854b28e4990b8d5": {
-            "text": "Super administrator nigdy si\u0119 nie zalogowa\u0142."
+            "text": "Administrator nigdy si\u0119 nie zalogowa\u0142."
         },
         "c3fde2eafc84400451d402a88c4e2efa": {
-            "text": "Ten komunkat b\u0142\u0119du zosta\u0142 wy\u015bwietlony poniewa\u017c:"
+            "text": "Ten komunikat b\u0142\u0119du zosta\u0142 wy\u015bwietlony, poniewa\u017c:"
         },
         "a9daf300020946318d20c57492171e60": {
             "text": "Nie mo\u017cna wykona\u0107 tego polecenia ze wzgl\u0119du na b\u0142\u0105d."
         },
         "6cb11cdff5ec8f7ab2a0cc4cb5635097": {
-            "text": "Powiadomenie o b\u0142edzie ProcessWire"
+            "text": "Powiadomienie o b\u0142\u0119dzie systemu"
         },
         "f4af86e3db12bdead0c6b4f370e361de": {
             "text": "="
