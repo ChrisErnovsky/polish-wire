@@ -3,16 +3,16 @@
     "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
     "translations": {
         "3b0c14770e6bd663518496da60f524da": {
-            "text": "Lista"
+            "text": "Drzewo"
         },
         "e8209ff97e2fd1fd89a08e2dbee3673c": {
-            "text": "Formu Wsparcia"
+            "text": "Forum"
         },
         "5b6cf869265c13af8566f192b4ab3d2a": {
             "text": "Dokumentacja"
         },
         "aecb91ec8d874934a5dece9ac6ec55c5": {
-            "text": "Repozytorium w Github"
+            "text": "Github"
         },
         "1c8a4467581c8a67def0a02f975a9f10": {
             "text": "="
@@ -24,10 +24,10 @@
             "text": "Profil"
         },
         "0323de4f66a1700e2173e9bcdce02715": {
-            "text": "Wyloguj"
+            "text": "Wyloguj si\u0119"
         },
         "7421d68c70dfc346497573bf4e08acc5": {
-            "text": "Narz\u0119dzia Trybu Testowego"
+            "text": "Narz\u0119dzia trybu debugowania"
         }
     }
 }

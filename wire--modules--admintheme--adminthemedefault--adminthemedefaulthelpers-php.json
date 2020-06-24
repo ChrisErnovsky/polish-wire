@@ -12,13 +12,16 @@
             "text": "Profil"
         },
         "0323de4f66a1700e2173e9bcdce02715": {
-            "text": "Wyloguj"
+            "text": "Wyloguj si\u0119"
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Dodaj"
         },
         "7421d68c70dfc346497573bf4e08acc5": {
-            "text": "Narz\u0119dzia Trybu Debugowania"
+            "text": "Narz\u0119dzia trybu debugowania"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "DLA T\u0141UMACZY: zamiast tego pliku, prosz\u0119 przet\u0142umaczy\u0107 raczej \/wire\/templates-admin\/default.php."
         }
     }
 }
