@@ -18,25 +18,25 @@
             "text": "G\u0142\u0119boko\u015b\u0107"
         },
         "4ee8d3067ffde7991e2c009f775ceb75": {
-            "text": "Uwaga: tylko pierwszy element(elementy) %d b\u0119dzie wykorzystany."
+            "text": "UWAGA: zostanie u\u017cyty tylko pierwszy element(y) %d."
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "Dodaj nowy"
         },
         "44a3084a1ce251fb76ba7fe540a18863": {
-            "text": "Ta akcja jest wy\u0142\u0105czona dla ustawie\u0144 minimalnej\/maksymalnej ilo\u015bci element\u00f3w."
+            "text": "Ta operacja jest wy\u0142\u0105czona dla ustawie\u0144 min\/max ilo\u015bci element\u00f3w."
         },
         "25c63396ad92c7bbb48fa4aa21adc5e4": {
-            "text": "Pozwala powiela\u0107 pola z innego szablonu. Zapewnia pole dla FieldtypeRepeater."
+            "text": "Powiela pola z innego szablonu. Zapewnia pole dla FieldtypeRepeater."
         },
         "84b9f1e68847c185ca36db3bc2f8de18": {
-            "text": "Kliknij aby usun\u0105\u0107 ten element, lub kliknij podw\u00f3jnie aby usun\u0105\u0107 wszystkie."
+            "text": "Kliknij, aby usun\u0105\u0107 ten element lub kliknij podw\u00f3jnie, aby usun\u0105\u0107 wszystkie."
         },
         "9a04ad51e71ca7e14841c880abe89a44": {
             "text": "Usun\u0105\u0107 wszystkie elementy?"
         },
         "485c9b5a61ede20a8ccc332f120da1f9": {
-            "text": "Kliknij aby w\u0142\u0105czy\u0107\/wy\u0142\u0105czy\u0107 element, lub kliknij podw\u00f3jnie aby otworzy\u0107\/zwin\u0105\u0107 wszystkie elementy."
+            "text": "Kliknij, aby w\u0142\u0105czy\u0107\/wy\u0142\u0105czy\u0107 element lub kliknij podw\u00f3jnie, aby otworzy\u0107\/zwin\u0105\u0107 wszystkie elementy."
         },
         "60f5703a75c6e7fa21be4247f0626dfb": {
             "text": "Sklonowa\u0107 ten element?"
@@ -48,7 +48,7 @@
             "text": "Zwin\u0105\u0107 wszystkie elementy?"
         },
         "be3fb8f18ddcd8f47b92e020f1474b1b": {
-            "text": "B\u0142\u0105d w \u201c%s\u201d element %d"
+            "text": "B\u0142\u0105d w \"%s\" elementu %d"
         },
         "d3b3350cb648f345b0a21a048df0cf45": {
             "text": "="
